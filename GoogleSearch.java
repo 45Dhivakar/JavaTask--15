@@ -7,7 +7,7 @@ package selenium;
 
 	public class GoogleSearch {
 	    public static void main(String[] args) {
-	        // Set the path to the ChromeDriver executable
+	        // Set the path to the FirefoxDriver executable
 	        System.setProperty("Webdriver.gecko.driver","C:\\Users\\Dell\\Downloads\\geckodriver-v0.34.0-win64.exe");
 
 	        // Create a new instance of the FirefoxDriver
